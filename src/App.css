@@ -1,0 +1,25 @@
+.notes{
+    height: 100vh;
+    background-color: #ccc;
+    padding: 2rem;
+}
+
+.notes > h1 {
+    margin-bottom: 2rem;
+}
+
+.microphone {
+    position: absolute;
+    top:0;
+    right:0;
+}
+
+.mic-icon{
+    height: 5rem;
+    width: 5rem;
+    object-fit: contain;
+}
+
+.buttons{
+    min-width: 500px;
+}
